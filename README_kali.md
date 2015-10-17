@@ -1,3 +1,3 @@
-# SizotrixKernel
+# SizotrixKernel (kitkat)
 
-basen on Androplus Kernel v32.
+based on Androplus Kernel v32 (kitkat).
